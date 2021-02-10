@@ -499,3 +499,15 @@ API 개발 + Spring Boot, SQL 공부하기
 😉 토익 9, 10일차 RC, LC 문제풀고 오답, 단어학습 (100%)
 
 - 자격증 시험때문에 밀린 것 보충하기!
+
+### 2월 10일 (Wed)
+
+---
+
+😉 토익 11, 12, 13일차 RC, LC 문제풀고 오답, 단어학습 (100%)
+
+- 자격증 시험때문에 밀린 것 보충하기!
+
+😉 포트폴리오 본격적으로 작성하기! (15%)
+
+- [https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D](https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D)
