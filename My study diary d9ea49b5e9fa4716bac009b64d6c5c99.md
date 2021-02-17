@@ -489,7 +489,7 @@ API 개발 + Spring Boot, SQL 공부하기
 
 🎉 10대 마지막 **생일** 축하 ♥
 
-- [x]  직무부트캠프 3주차 과제 제출하기
+- [x]  직무부트캠프 3주차 과제 제출하기 (100%)
 - [https://comento.kr/classroom/2629](https://comento.kr/classroom/2629)
 
 ### 2월 8일 (Mon)
@@ -511,3 +511,38 @@ API 개발 + Spring Boot, SQL 공부하기
 😉 포트폴리오 본격적으로 작성하기! (15%)
 
 - [https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D](https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D)
+
+### 2월 11일 (Thu)
+
+---
+
+😉 토익 14, 15일차 RC, LC 문제풀고 오답, 단어학습 (100%)
+
+- 자격증 시험때문에 밀린 것 보충하기!
+
+😉 포트폴리오 본격적으로 작성하기! (15%)
+
+- [https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D](https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D)
+
+### 2월 12일 (Fri)
+
+---
+
+😉 토익 16일차 RC, LC 문제풀고 오답, 단어학습 (100%)
+
+### 2월 15일 (Mon)
+
+---
+
+😉 토익 17일차 RC, LC 문제풀고 오답, 단어학습 (100%)
+
+- 해커스 무료 모의고사 응시!
+- [https://champ.hackers.com/](https://champ.hackers.com/)
+
+### 2월 16일 (Tue)
+
+---
+
+😉 직무부트캠프 4주차 과제수행 - API 개발 (40%)
+
+- [https://www.notion.so/4-2532111001fe4a3ea7987bfdc92db708](https://www.notion.so/4-2532111001fe4a3ea7987bfdc92db708)
