@@ -406,7 +406,7 @@
 - [https://www.notion.so/1297c07f041346e1a2142ad25cd47364?v=1905f8377ae74a69bdd1b5b93706a90a&p=566012cc61ce40f68ce5b41aa6fc155e](https://www.notion.so/1297c07f041346e1a2142ad25cd47364?v=1905f8377ae74a69bdd1b5b93706a90a&p=566012cc61ce40f68ce5b41aa6fc155e)
 - [https://www.notion.so/3-1-2255f6505a2e4e998aebf8e6a0d8a596](https://www.notion.so/3-1-2255f6505a2e4e998aebf8e6a0d8a596)
 
-😉 포트폴리오 프로토타입 작성하기!
+🧐 포트폴리오 프로토타입 작성하기!
 
 🙂 정보처리기능사 필기 이기적 문제집 기출문제 풀고 오답체크 (3회차) → 60점 커트라인
 
@@ -432,7 +432,7 @@
 
 🙂 정보처리기능사 필기 시험응시! (한국산업인력공단 - 서울서부지사)
 
-😉 포트폴리오 만들기 시작 
+🧐 포트폴리오 만들기 시작 
 
 - [https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D](https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D)
 
@@ -508,7 +508,7 @@ API 개발 + Spring Boot, SQL 공부하기
 
 - 자격증 시험때문에 밀린 것 보충하기!
 
-😉 포트폴리오 본격적으로 작성하기! (15%)
+🧐 포트폴리오 본격적으로 작성하기! (15%)
 
 - [https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D](https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D)
 
@@ -520,7 +520,7 @@ API 개발 + Spring Boot, SQL 공부하기
 
 - 자격증 시험때문에 밀린 것 보충하기!
 
-😉 포트폴리오 본격적으로 작성하기! (15%)
+🧐 포트폴리오 본격적으로 작성하기! (15%)
 
 - [https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D](https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D)
 
@@ -543,6 +543,36 @@ API 개발 + Spring Boot, SQL 공부하기
 
 ---
 
-😉 직무부트캠프 4주차 과제수행 - API 개발 (40%)
+😉 토익 18일차 RC, LC 문제풀고 오답, 단어학습 (100%)
+
+😀 직무부트캠프 4주차 과제수행 - API 개발 (40%)
 
 - [https://www.notion.so/4-2532111001fe4a3ea7987bfdc92db708](https://www.notion.so/4-2532111001fe4a3ea7987bfdc92db708)
+
+### 2월 17일 (Wed)
+
+---
+
+😉 토익 18일차 RC, LC 문제풀고 오답, 단어학습 (100%)
+
+😀 직무부트캠프 4주차 과제수행 - API 개발 (60%)
+
+- [https://www.notion.so/4-2532111001fe4a3ea7987bfdc92db708](https://www.notion.so/4-2532111001fe4a3ea7987bfdc92db708)
+
+### 2월 18일 (Thu)
+
+---
+
+😉 토익 19일차 RC, LC 문제풀고 오답, 단어학습 (100%)
+
+📝 해커스 모의토익 응시 !!
+
+- [https://www.hackers.co.kr/?c=s_toeic/toeic_winter/mocktoeic&keywd=haceng_submain_lnb_toeic_mocktoeic&logger_kw=haceng_submain_lnb_toeic_mocktoeic](https://www.hackers.co.kr/?c=s_toeic/toeic_winter/mocktoeic&keywd=haceng_submain_lnb_toeic_mocktoeic&logger_kw=haceng_submain_lnb_toeic_mocktoeic)
+
+😀 직무부트캠프 4주차 과제수행 - API 개발 (80%) + API 문서 개정
+
+- [https://www.notion.so/4-2532111001fe4a3ea7987bfdc92db708](https://www.notion.so/4-2532111001fe4a3ea7987bfdc92db708)
+
+🧐 포트폴리오 작성하기! (15%)
+
+- [https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D](https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D)
