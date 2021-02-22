@@ -569,10 +569,28 @@ API 개발 + Spring Boot, SQL 공부하기
 
 - [https://www.hackers.co.kr/?c=s_toeic/toeic_winter/mocktoeic&keywd=haceng_submain_lnb_toeic_mocktoeic&logger_kw=haceng_submain_lnb_toeic_mocktoeic](https://www.hackers.co.kr/?c=s_toeic/toeic_winter/mocktoeic&keywd=haceng_submain_lnb_toeic_mocktoeic&logger_kw=haceng_submain_lnb_toeic_mocktoeic)
 
-😀 직무부트캠프 4주차 과제수행 - API 개발 (80%) + API 문서 개정
+😀 직무부트캠프 4주차 과제수행 - API 개발 (80%) + API 문서 개정 (50%)
 
 - [https://www.notion.so/4-2532111001fe4a3ea7987bfdc92db708](https://www.notion.so/4-2532111001fe4a3ea7987bfdc92db708)
 
 🧐 포트폴리오 작성하기! (15%)
 
 - [https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D](https://www.miricanvas.com/design/18mgse?sheetW=MTkyMA%3D%3D&sheetH=MTA4MA%3D%3D&templateTypeId=cHJlc2VudGF0aW9u&templateIdx=NDIzMzk%3D)
+
+### 2월 19일 (Fri) - 20일 (Sat)
+
+---
+
+😉 계속 토익공부 토익토익토익토익
+
+### 2월 21일 (Sun)
+
+---
+
+- [x]  직무부트캠프 4주차 과제 제출
+
+🙂 TOEIC 시험응시! 
+
+😀 직무부트캠프 4주차 과제수행 - API 개발 (100%) + API 문서 개정 (100%) + 과제제출
+
+- [https://comento.kr/classroom/2629](https://comento.kr/classroom/2629)
