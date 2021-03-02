@@ -594,3 +594,43 @@ API 개발 + Spring Boot, SQL 공부하기
 😀 직무부트캠프 4주차 과제수행 - API 개발 (100%) + API 문서 개정 (100%) + 과제제출
 
 - [https://comento.kr/classroom/2629](https://comento.kr/classroom/2629)
+
+### 2월 22일 (Mon)
+
+---
+
+- [x]  자취방 알아보러 부동산 갔다오기
+
+😀 정보처리기능사 실기 시험공부 시작!
+
+### 2월 23일 (Tue)
+
+---
+
+- [x]  자취용품사러 다이소가기
+
+😀 정보처리기능사 실기 시험공부
+
+😆 직무부트캠프 5주차 세션, 실시간 강의 까지 마무리!  🎉
+
+### 2월 24일 (Wed)
+
+---
+
+- [x]  직무부트캠프 수료증 발급받기
+
+😀 정보처리기능사 실기 시험공부
+
+😉 IT쇼 회의 - 동아리(한솔)
+
+- [https://docs.google.com/document/d/19QZNpzklfWXkI-WeArloSnk9UqM-H78OrAOOy1ihLFU/edit?ts=6038f6a7](https://docs.google.com/document/d/19QZNpzklfWXkI-WeArloSnk9UqM-H78OrAOOy1ihLFU/edit?ts=6038f6a7)
+
+### 3월 2일 (Tue)
+
+---
+
+🎉 새학기 시작 
+
+😉 IT쇼 회의 - 재연
+
+- [https://docs.google.com/document/d/1SEVw0ro95mYQgz17EHBg4ZNvQYVxQcCLqtNu4znFZHs/edit?ts=603e0c35&pli=1](https://docs.google.com/document/d/1SEVw0ro95mYQgz17EHBg4ZNvQYVxQcCLqtNu4znFZHs/edit?ts=603e0c35&pli=1)
